@@ -1,0 +1,181 @@
+[
+  {
+    "id": 1000,
+    "number": 1,
+    "subject": "Footing depth at grid C4",
+    "status": "closed",
+    "initiated_at": "2026-08-28T14:00:00Z",
+    "due_date": "2026-09-04",
+    "closed_at": "2026-09-02T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1001,
+    "number": 2,
+    "subject": "Storefront head detail",
+    "status": "closed",
+    "initiated_at": "2026-09-03T14:00:00Z",
+    "due_date": "2026-09-10",
+    "closed_at": "2026-09-15T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1002,
+    "number": 3,
+    "subject": "Roof drain size conflict",
+    "status": "closed",
+    "initiated_at": "2026-09-11T14:00:00Z",
+    "due_date": "2026-09-18",
+    "closed_at": "2026-09-20T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1003,
+    "number": 4,
+    "subject": "Fire rating at corridor wall",
+    "status": "closed",
+    "initiated_at": "2026-09-17T14:00:00Z",
+    "due_date": "2026-09-24",
+    "closed_at": "2026-10-02T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1004,
+    "number": 5,
+    "subject": "Slab edge embed spacing",
+    "status": "closed",
+    "initiated_at": "2026-09-22T14:00:00Z",
+    "due_date": "2026-09-29",
+    "closed_at": "2026-09-28T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1005,
+    "number": 6,
+    "subject": "Ceiling height in Exam 3",
+    "status": "closed",
+    "initiated_at": "2026-09-29T14:00:00Z",
+    "due_date": "2026-10-06",
+    "closed_at": "2026-10-10T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1006,
+    "number": 7,
+    "subject": "Duct routing above corridor",
+    "status": "closed",
+    "initiated_at": "2026-10-07T14:00:00Z",
+    "due_date": "2026-10-14",
+    "closed_at": "2026-10-15T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1007,
+    "number": 8,
+    "subject": "Door hardware set 6",
+    "status": "closed",
+    "initiated_at": "2026-10-14T14:00:00Z",
+    "due_date": "2026-10-21",
+    "closed_at": "2026-10-28T16:00:00Z",
+    "ball_in_court": []
+  },
+  {
+    "id": 1008,
+    "number": 9,
+    "subject": "Generator pad location",
+    "status": "open",
+    "initiated_at": "2026-10-17T14:00:00Z",
+    "due_date": "2026-10-24",
+    "ball_in_court": [
+      {
+        "name": "Harbor Design Group (Architect)"
+      }
+    ]
+  },
+  {
+    "id": 1009,
+    "number": 10,
+    "subject": "Parapet flashing detail",
+    "status": "open",
+    "initiated_at": "2026-10-23T14:00:00Z",
+    "due_date": "2026-10-30",
+    "ball_in_court": [
+      {
+        "name": "Harbor Design Group (Architect)"
+      }
+    ]
+  },
+  {
+    "id": 1010,
+    "number": 11,
+    "subject": "Light fixture substitution",
+    "status": "open",
+    "initiated_at": "2026-10-26T14:00:00Z",
+    "due_date": "2026-11-02",
+    "ball_in_court": [
+      {
+        "name": "Tidewater MEP Engineers"
+      }
+    ]
+  },
+  {
+    "id": 1011,
+    "number": 12,
+    "subject": "Grade beam rebar lap",
+    "status": "open",
+    "initiated_at": "2026-11-04T14:00:00Z",
+    "due_date": "2026-11-11",
+    "ball_in_court": [
+      {
+        "name": "Harbor Design Group (Architect)"
+      }
+    ]
+  },
+  {
+    "id": 1012,
+    "number": 13,
+    "subject": "Elevator pit sump",
+    "status": "open",
+    "initiated_at": "2026-11-07T14:00:00Z",
+    "due_date": null,
+    "ball_in_court": [
+      {
+        "name": "Cape Fear Steel (Sub)"
+      }
+    ]
+  },
+  {
+    "id": 1013,
+    "number": 14,
+    "subject": "ADA ramp slope at entry",
+    "status": "open",
+    "initiated_at": "2026-11-10T14:00:00Z",
+    "due_date": "2026-11-17",
+    "ball_in_court": [
+      {
+        "name": "Tidewater MEP Engineers"
+      }
+    ]
+  },
+  {
+    "id": 1014,
+    "number": 15,
+    "subject": "Field question 15",
+    "status": "open",
+    "initiated_at": "2026-11-13T14:00:00Z",
+    "due_date": "2026-11-20",
+    "ball_in_court": [
+      {
+        "name": "Harbor Design Group (Architect)"
+      }
+    ]
+  },
+  {
+    "id": 2000,
+    "number": 99,
+    "subject": "Draft: canopy framing",
+    "status": "draft",
+    "initiated_at": "2026-11-15T14:00:00Z",
+    "ball_in_court": []
+  }
+]
